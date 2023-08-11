@@ -1,0 +1,7 @@
+{
+  "name": "Alphabetic-Scroll",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
